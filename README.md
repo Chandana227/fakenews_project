@@ -1,7 +1,6 @@
 
-Here's an introduction for the "Fake News Detection Using Natural Language Processing (NLP)" project that you can use for your GitHub README file:
 
-Fake News Detection Using Natural Language Processing (NLP)
+Fake News Detection 
 Introduction
 In the digital age, the proliferation of misinformation and fake news has become a significant concern, impacting public opinion and decision-making processes across the globe. To address this challenge, we present the Fake News Detection Using Natural Language Processing (NLP) project—a machine learning solution designed to classify news articles as either fake or true based on their textual content.
 
